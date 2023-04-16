@@ -1,0 +1,29 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Modassar/Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Modassar/Authentication/issues"
+  },
+  "homepage": "https://github.com/Md-Modassar/Authentication#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "json": "^11.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "token": "^0.1.0",
+    "web": "^0.0.2"
+  }
+}
